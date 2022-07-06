@@ -1,5 +1,5 @@
 1. create a database 
-CREATE DATABASE "my_table"
+CREATE DATABASE my_table
 2. create a table with some fields
 
 create table employee(
